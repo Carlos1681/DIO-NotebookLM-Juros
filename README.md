@@ -119,9 +119,5 @@ Você pode utilizar os prompts abaixo em ferramentas de IA ou para autoestudo pa
 1.  **Mantenha a Disciplina:** O sucesso do acúmulo de capital para a aposentadoria depende mais da consistência dos aportes do que da taxa de juros em si.
 2.  **Eduque sua Família:** O orçamento familiar funciona melhor quando há comprometimento de todos os membros na busca de metas comuns.
 3.  **Atenção aos 'Pequenos Gastos':** Miudezas como cafezinhos e lanches podem consumir até 30% da renda; identificá-los é o primeiro passo para aumentar o índice de poupança.
-# 4. Dicas Práticas das Fontes
-1.  **Mantenha a Disciplina:** O sucesso do acúmulo de capital para a aposentadoria depende mais da consistência dos aportes do que da taxa de juros em si.
-2.  **Eduque sua Família:** O orçamento familiar funciona melhor quando há comprometimento de todos os membros na busca de metas comuns.
-3.  **Atenção aos 'Pequenos Gastos':** Miudezas como cafezinhos e lanches podem consumir até 30% da renda; identificá-los é o primeiro passo para aumentar o índice de poupança.
 
 
